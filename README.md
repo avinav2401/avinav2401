@@ -95,6 +95,12 @@
   alt="Activity Graph" 
   style="max-width:1100px; width:100%; border-radius:8px" />
 </div>
+<br/>
 
+<div align="center">
+  <a href="https://github.com/avinav2401/avinav2401/generate">
+    <img src="https://github.com/avinav2401/avinav2401/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  </a>
+</div>
 
 <hr/>
