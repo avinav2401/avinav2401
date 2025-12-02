@@ -28,13 +28,13 @@
   <img src="https://img.shields.io/badge/PORTFOLIO-32CD32?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-32CD32?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://www.linkedin.com/in/avinav-priyadarshi-45705a2b0/?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-32CD32?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/GMAIL-32CD32?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="avinavpriyadarshi@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
