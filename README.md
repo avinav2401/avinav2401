@@ -25,16 +25,16 @@
 <div align="left">
 
 <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-32CD32?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-20B2AA?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
-  <img src="https://www.linkedin.com/in/avinav-priyadarshi-45705a2b0/?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/avinav-priyadarshi-45705a2b0/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-20B2AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-32CD32?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-20B2AA?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="mailto:YOUR_EMAIL_HERE" target="_blank">
-  <img src="avinavpriyadarshi@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="avinavpriyadarshi@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/GMAIL-20B2AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
