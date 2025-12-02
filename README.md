@@ -99,10 +99,10 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/avinav2401/avinav2401/generate">
-    <img src="https://github.com/avinav2401/avinav2401/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 <hr/>
