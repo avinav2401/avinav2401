@@ -78,7 +78,7 @@
 
 <div align="center">
   <a href="https://github.com/avinav2401">
-    <img src="https://lohit-readme-stats.vercel.app/api?username=avinav2401&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="Avinav's GitHub Stats" width="48%" />
+    <img src="https://lohit-readme-stats.vercel.app/api?username=avinav2401&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="Avinav's GitHub Stats" width="40%" />
   </a>
 
   <a href="https://github.com/avinav2401">
