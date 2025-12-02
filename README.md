@@ -92,21 +92,5 @@
   style="max-width:1100px; width:100%; border-radius:8px" />
 </div>
 
-<!-- Streak + Stats (fallback note below) -->
-<div align="center" style="margin-top:12px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinav2401&theme=dark&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=avinav2401&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="margin-left:10px" />
-</div>
 
----
-
-<!-- Contribution Snake (embed) with raw-link fallback -->
-<div align="center" style="margin-top:18px;">
-  <img src="./output/github-contribution-grid-snake-dark.svg" 
-       alt="Contribution Snake Animation" 
-       style="max-width:1100px; width:100%; border-radius:8px;" />
-  <p style="font-size:12px; color:#999; margin-top:6px;">
-    If the image doesn't load, open the <a href="https://raw.githubusercontent.com/avinav2401/Avinav-Priyadarshi/main/output/github-contribution-grid-snake-dark.svg" target="_blank">raw SVG file</a>.
-  </p>
-</div>
 <hr/>
