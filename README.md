@@ -1,21 +1,21 @@
 # Hi, I'm Avinav :)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer;Web+Developer;UI%2FUX+Designer&font=Fira+Code&center=false&width=500&height=50&color=20B2AA&vCenter=true&pause=1000&size=28" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer;Web+Developer;UI%2FUX+Designer&font=Fira+Code&center=false&width=500&height=50&color=32CD32&vCenter=true&pause=1000&size=28" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 </div>
 
 <br/>
 
 ## What I’m Working On
 
--   **Studique** &rarr; A campus companion for SRM (ppts, pyqs, attendance, marks, events, timetable, mess menus, faculty finder, GPA calculators).
--   **iOS Development** &rarr; Building an app with a team, handling the product lifecycle from idea to launch.
+-   **Studique** &rarr; A campus companion for SRM (ppts, pyqs, attendance, marks, events, timetable, mess menus, faculty finder, GPA calculators).
+-   **iOS Development** &rarr; Building an app with a team, handling the product lifecycle from idea to launch.
 
 <br/>
 
@@ -24,16 +24,16 @@
 <div align="left">
 
 <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-20B2AA?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-32CD32?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-20B2AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-32CD32?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-20B2AA?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-32CD32?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/GMAIL-20B2AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/GMAIL-32CD32?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
@@ -77,27 +77,20 @@
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/avinav2401">
-    <img src="https://lohit-readme-stats.vercel.app/api?username=avinav2401&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="Avinav's GitHub Stats" width="48%" />
-  </a>
+  <a href="https://github.com/avinav2401">
+    <img src="https://lohit-readme-stats.vercel.app/api?username=avinav2401&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="Avinav's GitHub Stats" width="48%" />
+  </a>
 
-  <a href="https://github.com/avinav2401">
-    <img src="https://streak-stats.demolab.com?user=avinav2401&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2AA&currStreakLabel=20B2AA" alt="Avinav's Streak" width="48%" />
-  </a>
+<a href="https://github.com/avinav2401">
+    <img src="https://streak-stats.demolab.com?user=avinav2401&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2AA&currStreakLabel=20B2AA" alt="Avinav's Streak" />
+  </a>
 </div>
-
-<br/>
-
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinav2401&bg_color=0D1117&color=20B2AA&line=20B2AA&point=FFFFFF&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinav2401&bg_color=0b1020&line=6ea8ff&point=9be7ff&area=true&theme=react-dark" 
+  alt="Activity Graph" 
+  style="max-width:1100px; width:100%; border-radius:8px" />
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/avinav2401/avinav2401/generate">
-    <img src="https://github.com/avinav2401/avinav2401/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-  </a>
-</div>
 
 <hr/>
