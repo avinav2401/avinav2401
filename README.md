@@ -80,12 +80,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Avinav-Priyadarshi">
-    <img src="https://github-readme-stats.vercel.app/api?username=Avinav-Priyadarshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=20B2AA&icon_color=20B2AA" alt="Avinav's Github Stats" />
+  <a href="https://github.com/avinav2401">
+    <img src="https://github-readme-stats.vercel.app/api?username=avinav2401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=20B2AA&icon_color=20B2AA" alt="Avinav's Github Stats" />
   </a>
   
-  <a href="https://github.com/Avinav-Priyadarshi">
-    <img src="https://streak-stats.demolab.com?user=Avinav-Priyadarshi&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2AA&currStreakLabel=20B2AA" alt="Avinav's Streak" />
+  <a href="https://github.com/avinav2401">
+    <img src="https://streak-stats.demolab.com?user=avinav2401&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2AA&currStreakLabel=20B2AA" alt="Avinav's Streak" />
   </a>
 </div>
 
