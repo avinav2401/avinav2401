@@ -85,4 +85,28 @@
     <img src="https://streak-stats.demolab.com?user=avinav2401&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2AA&currStreakLabel=20B2AA" alt="Avinav's Streak" />
   </a>
 </div>
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinav2401&bg_color=0b1020&line=6ea8ff&point=9be7ff&area=true&theme=react-dark" 
+  alt="Activity Graph" 
+  style="max-width:1100px; width:100%; border-radius:8px" />
+</div>
+
+<!-- Streak + Stats (fallback note below) -->
+<div align="center" style="margin-top:12px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinav2401&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avinav2401&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="margin-left:10px" />
+</div>
+
+---
+
+<!-- Contribution Snake (embed) with raw-link fallback -->
+<div align="center" style="margin-top:18px;">
+  <img src="./output/github-contribution-grid-snake-dark.svg" 
+       alt="Contribution Snake Animation" 
+       style="max-width:1100px; width:100%; border-radius:8px;" />
+  <p style="font-size:12px; color:#999; margin-top:6px;">
+    If the image doesn't load, open the <a href="https://raw.githubusercontent.com/avinav2401/Avinav-Priyadarshi/main/output/github-contribution-grid-snake-dark.svg" target="_blank">raw SVG file</a>.
+  </p>
+</div>
 <hr/>
