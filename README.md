@@ -24,7 +24,7 @@
 
 <div align="left">
 
-<a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
+<a href="https://avinav.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/PORTFOLIO-20B2AA?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/avinav-priyadarshi-45705a2b0/" target="_blank">
