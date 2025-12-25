@@ -73,7 +73,6 @@
 <br/>
 
 ## GitHub Stats
-
 <div align="center">
   <a href="https://github.com/avinav2401">
     <img 
@@ -82,9 +81,6 @@
       width="46%" 
     />
   </a>
-</div>
-
-
 
   <a href="https://github.com/avinav2401">
     <img 
@@ -94,7 +90,6 @@
     />
   </a>
 </div>
-
 
 <br/>
 
