@@ -14,7 +14,7 @@
 
 ## What I’m Working On
 
--   **SRM aAPP** &rarr; A campus companion for SRM (ppts, pyqs, attendance, marks, events, timetable, mess menus, faculty finder, GPA calculators).
+-   **SRM APP** &rarr; For student help.
 
 -   **HAND GESTER** &rarr; Building an app To Track Hand Movement.
 
