@@ -75,6 +75,15 @@
 ## GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/avinav2401">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinav2401&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" 
+      alt="Top Languages" 
+      width="46%" 
+    />
+  </a>
+</div>
+
 
 
   <a href="https://github.com/avinav2401">
