@@ -16,7 +16,7 @@
 
 -   **SRM APP** &rarr; For student help.
 
--   **HAND GESTER** &rarr; Building an app To Track Hand Movement.
+-   **HAND GESTER** &rarr; Building an app To track hand movement.
 
 <br/>
 
