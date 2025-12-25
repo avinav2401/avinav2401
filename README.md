@@ -79,9 +79,8 @@
       src="https://lohit-readme-stats.vercel.app/api/top-langs/?username=avinav2401&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" 
       alt="Top Languages" 
       width="46%" 
-    />
+  />
   </a>
-</div>
 
 
   <a href="https://github.com/avinav2401">
@@ -89,7 +88,7 @@
       src="https://streak-stats.demolab.com?user=avinav2401&theme=tokyonight&hide_border=true&background=0D1117&ring=20B2AA&currStreakLabel=20B2AA" 
       alt="Avinav's Streak" 
       width="46%" 
-    />
+  />
   </a>
 </div>
 
