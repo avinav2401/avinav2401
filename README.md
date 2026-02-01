@@ -33,7 +33,9 @@
 <a href="mailto:avinavpriyadarshi@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/GMAIL-20B2AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
+<a href="https://avinav-pri.itch.io/" target="_blank">
+  <img src="https://img.shields.io/badge/ITCH.IO-20B2AA?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/>
+</a>
 </div>
 
 <br/>
