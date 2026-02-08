@@ -36,6 +36,10 @@
 <a href="https://avinav-pri.itch.io/" target="_blank">
   <img src="https://img.shields.io/badge/ITCH.IO-20B2AA?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/>
 </a>
+<a href="https://www.artstation.com/avianvpri5" target="_blank">
+  <img src="https://img.shields.io/badge/ARTSTATION-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/>
+</a>
+
 </div>
 
 <br/>
