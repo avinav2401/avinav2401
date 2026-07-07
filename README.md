@@ -16,7 +16,7 @@
 
 -   **SRM APP** &rarr; For student help.
 
--   **HAND GESTER** &rarr; Building an app To track hand movement.
+-   **unity game **
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 <div align="left">
 
-<a href="https://avinav-priyadarshi.vercel.app/" target="_blank">
+<a href="https://avinav.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/PORTFOLIO-13AFF0?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/avinav-priyadarshi-45705a2b0/" target="_blank">
