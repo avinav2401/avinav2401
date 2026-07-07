@@ -16,7 +16,7 @@
 
 -   **SRM APP** &rarr; For student help.
 
--   **unity game **
+-   **Unity Game** &rarr; For gamers.
 
 <br/>
 
